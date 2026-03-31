@@ -13,7 +13,7 @@ Deploy steps:
 1. Replace the existing root index.html in the GitHub Pages publishing source with this package's index.html.
 2. Add the en, zh-cn, zh-tw, and ko directories as-is.
 3. Optionally add 404.html and .nojekyll to the publishing source root.
-4. Replace the placeholder contact email in all five pages before final publication.
+4. Contact email already updated in all five pages: nishigon.app.support@gmail.com
 5. Commit and push to the GitHub Pages publishing source.
 6. Verify these URLs after publish:
    - https://nishigon.github.io/speak-solve-alarm-privacy-policy/
